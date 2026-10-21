@@ -1,0 +1,6 @@
+{
+  "name": "Keuangan Remako Daboribo",
+  "description": "Portal Transparansi Kas, Rekap Iuran Anggota, dan Laporan Keuangan Organisasi Remako Daboribo berbasis Supabase Realtime.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
